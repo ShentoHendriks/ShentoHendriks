@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+Hello, my name is Shento Hendriks and I'm a Creative Developer based in the Netherlands 🇳🇱. I focus on creating beautiful and functional websites for businesses and individuals.
 
 <!--
 **ShentoHendriks/ShentoHendriks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
